@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    /* its depend on the screen resolution . */
+    padding: 2rem;
+    /* its depend on the screen resolution . */
+    /* i will not apply this type of huge pading on mobile */
+
+}
+.main_main{
+    position: relative;
+
+}
+.rect{
+    /* display: flex; */
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin-top: -10%;
+    margin-left: 10%;
+}
+.button{
+    height: 40px;
+    width: 80px;
+    background-color: rgb(240, 68, 68);
+    border-color: rgb(240, 68, 68);;
+}
+.button_main{
+    display: flex;
+    justify-content: center;
+    margin-right: 50%;
+    margin-top: 1%;
+}
+.green{
+    background-color: rgb(21, 170, 21, 0.5);
+    border-color: rgb(21, 170, 21, 0.5);
+}

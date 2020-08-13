@@ -1,0 +1,10 @@
+.rectangle_main{
+    /* it can be changed  */
+    min-height: 50vh;
+    max-width: 50%;
+    /* it can be changed  */
+    background-color: rgb(248, 0, 0 ,0.5);
+}
+.green{
+    background-color: rgb(21, 170, 21, 0.5);
+}
